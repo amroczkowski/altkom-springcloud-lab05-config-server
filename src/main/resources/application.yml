@@ -1,0 +1,11 @@
+server:
+  port: 8500
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          clone-on-start: true
+          uri: https://github.com/amroczkowski/altkom-springcloud-lab05-configuration.git
