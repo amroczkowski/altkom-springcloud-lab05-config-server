@@ -9,3 +9,5 @@ spring:
         git:
           clone-on-start: true
           uri: https://github.com/amroczkowski/altkom-springcloud-lab05-configuration.git
+#          search-paths: ['{application}/{profile}','{application}']
+#          uri: file:///C:/workspace/git/config-repo
