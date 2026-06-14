@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pl.altkom.springcloud.lab05.configserver</groupId>
-	<artifactId>config-server</artifactId>
+	<artifactId>lab05-config-server</artifactId>
 	<version>1.0.0</version>
 	<name>config-server</name>
 	<description>Config Server</description>
